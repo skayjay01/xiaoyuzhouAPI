@@ -10,7 +10,7 @@
 
 ## 环境
 
-Go 1.22.0 <img alt="Static Badge" src="https://img.shields.io/badge/Go-1.22.0-blue.svg">
+Go 1.26.0 <img alt="Static Badge" src="https://img.shields.io/badge/Go-1.26.0-blue.svg">
 
 ## 安装
 
